@@ -20,6 +20,14 @@ Dataset obtenido desde HuggingFace.
 - matplotlib
 - plotly
 
+## 📈 Dashboard (Power BI)
+
+### Páginas
+-Información General del dataset
+-Actividad y Vencimiento de los contratos (análisis comercial)
+-Riesgo y Valoración (análisis financiero)
+
+
 ## 📊 Principales hallazgos
 - El volumen tiende a incrementarse cerca del vencimiento.
 - Las opciones ATM presentan mayor probabilidad de ejercicio.
