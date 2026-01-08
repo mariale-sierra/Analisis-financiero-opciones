@@ -23,9 +23,9 @@ Dataset obtenido desde HuggingFace.
 ## 📈 Dashboard (Power BI)
 
 ### Páginas
--Información General del dataset
--Actividad y Vencimiento de los contratos (análisis comercial)
--Riesgo y Valoración (análisis financiero)
+- Información General del dataset
+- Actividad y Vencimiento de los contratos (análisis comercial)
+- Riesgo y Valoración (análisis financiero)
 
 
 ## 📊 Principales hallazgos
